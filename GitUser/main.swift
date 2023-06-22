@@ -14,3 +14,5 @@ let number = 10
 let number2 = 20
 
 let result = number2 - number
+
+let word = "hello world"
