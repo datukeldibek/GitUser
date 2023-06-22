@@ -11,3 +11,6 @@ print("Hello, World!")
 
 let number = 10
 print(number)
+
+
+let sum = 3 + 4
