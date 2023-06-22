@@ -10,3 +10,5 @@ import Foundation
 print("Hello, World!")
 
 let number = 10
+
+let number2 = 20
